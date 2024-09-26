@@ -7,7 +7,7 @@ This is the official repository for the paper "SemTrack: A Large-scale Dataset f
 [Project Page](https://sutdcv.github.io/SemTrack/)
 
 ## Paper
-[arXiv]() [ECCV2024]()
+[ECCV2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3555_ECCV_2024_paper.php)
 
 ## Dataset
 Please download our dataset and toolkit [here](https://forms.office.com/Pages/ResponsePage.aspx?id=drd2NJDpck-5UGJImDFiPQJNzw6AhuZDkzEViiWzJltUNjhKM01KWjhXN0FBNjcxNVBZQk03VVFHQi4u).
@@ -26,7 +26,7 @@ If you use this dataset in your research, please cite our paper:
 @inproceedings{wang2024semtrack,
 title={SemTrack: A Large Scale Dataset for Semantic Tracking in the Wild},
 author={Wang, Pengfei and Hui, Xiaofei and Wu, Jing and Yang, Zile and Ong, Kian Eng and Zhao, Xinge and Lu, Beijia and Huang, Dezhao and Ling, Evan and Chen, Weiling and Ma, Keng Teck and Hur, Minhoe and Liu, Jun},
-booktitle={ECCV},
+booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
 year={2024}
 }
 ```
